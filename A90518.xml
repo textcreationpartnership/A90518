@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Galliæ flagellum: or, The reduction of France made easie: with a scheme thereof In a letter to a Member of Parliament.</title>
+            <author>Perron, W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90518</idno>
+            <idno type="STC">Wing P1609B</idno>
+            <idno type="STC">ESTC R230084</idno>
+            <idno type="EEBO-CITATION">99899441</idno>
+            <idno type="PROQUEST">99899441</idno>
+            <idno type="VID">153477</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153477)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2367:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Galliæ flagellum: or, The reduction of France made easie: with a scheme thereof In a letter to a Member of Parliament.</title>
+                  <author>Perron, W.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: W. Perron.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153477:1"/>
+            <pb facs="tcp:153477:1" rendition="simple:additions"/>
+            <p>
+               <hi>GALLIAE FLAGELLUM:</hi> OR, THE Reduction of France Made EASIE: WITH A <hi>Scheme thereof.</hi> IN A LETTER TO A Member of <hi>PARLIAMENT.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the YEAR 1696.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:153477:2"/>
+            <pb facs="tcp:153477:2"/>
+            <head>THE Epiſtle Dedicatory.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BOth the Foreign and Domeſtick Prints making ſuch a noiſe and rattle with the vaſt Pre<g ref="char:EOLhyphen"/>parations of <hi>France</hi> by Sea and Land, without taking equal notice of the much greater of the Allies, who will be too ſtrong and too early for the French, I have adventur'd to give you my Sentiments upon a Method (in my Opinion) the moſt rational to reduce <hi>France</hi> to an abſolute and ſpeedy Neceſſity of making, or rather
+<pb facs="tcp:153477:3"/>taking a Peace from the Allies; and knowing your Merit and Judgment, and the Figure you make in this Kingdom, and particularly in the Great Council of which you are an Honorable Member: And being bound in gratitude to make you ſome return for the great Favours receiv'd at your band, I have reſolv'd to this way, and beg your kind but not ſevere Cen<g ref="char:EOLhyphen"/>ſure; and hope you'll accept my Zeal to the Publick, and Reſpect to your ſelf, and Pardon</p>
+            <closer>
+               <signed>Your moſt humble and Obedient Servant, W. Perron.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:153477:3"/>
+            <head>
+               <hi>GALLIAE FLAGELLUM:</hi> OR, THE Reduction of <hi>France,</hi> &amp;c.</head>
+            <p>THAT <hi>France</hi> has been upon the Defenſive, both by Sea and Land theſe two Years laſt paſt, I hope no Body will deny: That her Carreer was ſtop'd in the Campaign of 1694, and that ſhe loſt Ground every where, (<hi>Ger<g ref="char:EOLhyphen"/>many</hi> excepted, where ſhe got none,) <hi>viz.</hi> in <hi>Flanders, Italia,</hi> and <hi>Catalonia,</hi> in the Campaign of 1695, is well known to all the World: That ſhe ſneak'd behind her Lines laſt Summer, and that ſhe is ma<g ref="char:EOLhyphen"/>king new ones between <hi>Dinant</hi> and <hi>Cha<g ref="char:EOLhyphen"/>ſtelet,</hi> having fortified her Frontiers, and re-inforc'd thoſe Gariſons, we are all ve<g ref="char:EOLhyphen"/>ry ſenſible: That ever ſince the fatal
+<pb n="6" facs="tcp:153477:4"/>Blow at <hi>La-Hogue,</hi> the Navy-Royal of <hi>France</hi> has been diſarm'd and laid up, nay and block'd up too in her own Ports, by her Enemies, not daring to peep out to Sea, muſt be acknowledg'd by all: That this way of Defending her ſelf by Lines is purely new to her, and a certain Effect of her Declenſion, is not capable of the leaſt Doubt or Diſpute; for, having Ar<g ref="char:EOLhyphen"/>mies more numerous, and Magazines better fill'd than her Foes, ſhe always acted upon the Offenſive, till, for want of Mo<g ref="char:EOLhyphen"/>ney, Magazines could not be amaſs'd, nor Forces augmented, nay Recruits hardly made. That the Neceſſities of <hi>France</hi> are preſſing and pinching we ſhall clearly evince, by her Commerce being intirely deſtroy'd; (for what little re<g ref="char:EOLhyphen"/>mains, is by ſtealth ſent out, which bears no Proportion to that in the Freedom of Trade:) That the Revenues of <hi>France</hi> are fallen ſhort above forty Millions of Sterling Money, of what they amounted to about thirty Years ago, I have made out plainly in a Treatiſe I writ, and
+<pb n="7" facs="tcp:153477:4"/>which was lately publiſh'd in <hi>France,</hi> en<g ref="char:EOLhyphen"/>tituled <hi>Les Detailes de</hi> France, in which it appears (above Contradiction) that <hi>France</hi> was in her moſt exalted State, and moſt flouriſhing Condition, juſt before ſhe began the Perſecution of thoſe of the Holy Reformed Religion, and her Declen<g ref="char:EOLhyphen"/>ſion may thence take Date: That her Traders and Artificers are fled, her Towns and Villages depopulated, her Manu<g ref="char:EOLhyphen"/>factures (her richeſt Mine) abandon'd, her very native Products neglected, is no piece of News, but rather too ſtale to be now broach'd: That the Fertility of the late Years have made Bread (the Staff of Life) abundantly plentiful in moſt Parts of that Kingdom is very cer<g ref="char:EOLhyphen"/>tain, which yet hinders not Multitudes of People from ſtarving, (which is not Re<g ref="char:EOLhyphen"/>port, or Phancy, or Conjecture, but occu<g ref="char:EOLhyphen"/>lar Demonſtration,) three <hi>Hungarian</hi> Gentlemen who lately obtain'd Paſſes, and made the <hi>Tour</hi> of <hi>France</hi> have de<g ref="char:EOLhyphen"/>clar'd, that in riding a few Miles they ſaw and told above a hundred dead with
+<pb n="8" facs="tcp:153477:5"/>Hunger in the Roads as they paſt; be<g ref="char:EOLhyphen"/>ſides, many other Gentlemen lately come from thence affirm it: And this Miſery encreaſes daily, for the Taxes are every where doubled upon the poor Rogues, who being inſolent, their neceſſary Move<g ref="char:EOLhyphen"/>ables are ſeiz'd, (which never was done before) and ſold to the King's Uſe, who knows nothing of this barbarous Treat<g ref="char:EOLhyphen"/>ment; no Body (no, not the tender-hearted Clergy) durſt tell him; he ſees no Scarcity, feels no Want, great Trains, and great Tables are ſtill in his view; Monſieur <hi>Pont Chartrain</hi> with his his <hi>Ja<g ref="char:EOLhyphen"/>nizaries</hi> manages this Matter, firſt Pro<g ref="char:EOLhyphen"/>jects, and then raiſes Money, being aſſi<g ref="char:EOLhyphen"/>ſted by the King's Abſolute and Arbitra<g ref="char:EOLhyphen"/>ry Power. And now to revive the drooping Spirits, and languiſhing Senſes of my poor, ſlaviſh, and drowſie Country<g ref="char:EOLhyphen"/>men, they are told often, and frequently tickled with the hopes of Peace, which our Auguſt and Invincible Monarch, (as the Court Paraſites call him) aſſures them he will have, either by Force, or
+<pb n="9" facs="tcp:153477:5"/>fair Means: And ſuch is the Vanity and Credulity of my dear Compatriots, that they yet believe him, (although they have been ſo often deceiv'd by him,) and to that end, all Inſtruments are made uſe of, no Stone unturn'd, Sea and Land compaſs'd, all Methods attempted to bring this about; but finding Peace is not to be gain (even by his new and late Conceſſions, which are much more reaſonable,) but with Sword in Hand, his <hi>Gallick</hi> Majeſty, is reſolv'd to try one Ef<g ref="char:EOLhyphen"/>fort more, (and that, he ſays, ſhall be a very extraordinary one) (and, I ſay, will be his laſt,) by augmenting his Troops, and making an early Campaign of the next, and (as is pretended) by equipping both his Fleets, in the <hi>Mediterranean,</hi> and <hi>Ocean,</hi> and joyning them to make Head againſt the united Force of <hi>England</hi> and <hi>Holland,</hi> to preſerve their Coaſts from being Inſulted, and their Towns and Ports from Bombs and Fire-Ships, and to re<g ref="char:EOLhyphen"/>inforce their Armies with the Regular Troops, and the Gariſons with the Militia
+<pb n="8" facs="tcp:153477:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:153477:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:153477:7"/>that guarded their Coaſts; but all this is Rhodomantade, mere Huff, and Splutter, being impracticable, and almoſt impoſſi<g ref="char:EOLhyphen"/>ble, for the Charge of ſetting out their Fleet will be ſuperior to that of augment<g ref="char:EOLhyphen"/>ing their Armies by new Levies in lieu of the Troops on the Coaſts; beſides, 'tis abſolutely impoſſible for them to Man 'em, (tho' they call in every individual Privateer,) and ſurely they are not yet ſo mad to pretend to meet the <hi>Engliſh</hi> and <hi>Dutch</hi> at Sea, without a Force ſupe<g ref="char:EOLhyphen"/>rior, or at leaſt equal to them, (which is what the Allies deſire;) beſides, the <hi>French Exchequer</hi> is exhauſted, the Branches of the Revenue anticipated, the Credit of the Court clogg'd, and the Reputation of the Kingdom already mortgag'd; the King's Lands would be made Cautionary, but no Body durſt open their Purſes for that purpoſe. That there is Money left in <hi>France</hi> we will not deny, and that if his Majeſty can come at it, he will have it to the laſt Farthing we know, but care is taken to hide it from his Officers, by bu<g ref="char:EOLhyphen"/>rying
+<pb n="11" facs="tcp:153477:7"/>it deep in the Earth, and find it if they can. This is the State of <hi>France</hi> at this preſent Juncture, ſhe will be ruin'd even by the bare continuance of the War, without a Blow, or the loſs of a Town; but, to effect this ſpeedily, and to prevent a deluge of Blood, and to accelerate a Peace (which is now only talk'd of) which will be perfected as ſoon as agita<g ref="char:EOLhyphen"/>ted, I ſay, will even be concluded with<g ref="char:EOLhyphen"/>out any Preliminaries, which often take up a great deal of time. I propoſe the following <hi>Scheme,</hi> with all humility and deference, and wholly ſubmit it to the Pleaſure and Diſcretion of the Allies, whoſe Intereſt I ſhall endeavour to prove it to be to put it in timely execution; and that this Project may not ſavour of Pride, or Self-Eſteem, or any ſiniſter or private Deſign, I do declare it is the pure reſult of Zeal and Gratitude for my Religion, and Bread, which I enjoy, and eat, with Liberty and Satiety; from the Arms and Charity of the Allies, now in Confederacy againſt my native Country, <hi>(France)</hi> which denies me both.</p>
+            <pb n="12" facs="tcp:153477:8"/>
+            <p>
+               <hi>Firſt,</hi> That the Allies furniſh each his <hi>Quota</hi> to a new Levy of Fifty or ſixty thou<g ref="char:EOLhyphen"/>ſand Men, this Winter, to be put in Ga<g ref="char:EOLhyphen"/>riſons during the next Campaign, which ſhall begin very early: That out of the <hi>Veteran</hi> Troops there be detach'd Forty thouſand choſen Men, (whereof ten thouſand Horſe and Dragoons) under experienc'd Officers, with a good Train of Artilery, conducted by the beſt Engi<g ref="char:EOLhyphen"/>neers, with Ammunition and Proviſion ſuitable, ſpare Arms, and all Neceſſaries for ſuch Service, all ready to be embark'd from their ſeveral Ports in <hi>England</hi> and <hi>Holland,</hi> as ſoon as ever the Armies on both Sides ſhall have taken the Field.</p>
+            <p>That a real and actual Deſcent be made with this compleat Army of Forty thou<g ref="char:EOLhyphen"/>ſand Men upon <hi>France,</hi> there being ſeve<g ref="char:EOLhyphen"/>ral Places (well known) on the Coaſts of <hi>Picardy, Normandy,</hi> and <hi>Britany,</hi> favou<g ref="char:EOLhyphen"/>rable to ſuch a Deſign.</p>
+            <pb n="13" facs="tcp:153477:8"/>
+            <p>That they may land Safely, and with little or no Oppoſition from the <hi>French</hi> Troops, is not to be doubted; and that they may march far up into the Country (which lies open enough for 'em) is cer<g ref="char:EOLhyphen"/>tain: That no Inland Towns of <hi>France,</hi> on that ſide, are capable of reſiſting ſuch a Force, is alſo well known.</p>
+            <p>That by the appearing of ſuch an Ar<g ref="char:EOLhyphen"/>my, [of Friends] among them, the Re<g ref="char:EOLhyphen"/>form'd, all the new Converts, (nay, and many <hi>Papiſts</hi> too, having been alſo op<g ref="char:EOLhyphen"/>preſs'd) would reſume their Courage, and take Arms to recover their <hi>Laws, Liberty,</hi> and <hi>Religion:</hi> And thus would the Inva<g ref="char:EOLhyphen"/>ding Army be ſoon doubled, nay trebled, and be able by this Means to give to, or receive Battel from the united Force of <hi>France;</hi> who, in this great and (almoſt) reſiſtleſs Diſtreſs, would firſt detach a great Body from her Army in <hi>Flanders,</hi> (which by this means would be ſo weak<g ref="char:EOLhyphen"/>en'd, that <hi>Villeroy</hi> could not defend the Lines, which would then be penetrated,
+<pb n="14" facs="tcp:153477:9"/>and the Country that way enter'd) be<g ref="char:EOLhyphen"/>ing neareſt, which in conjunction with the few Regular Troops, and more Mili<g ref="char:EOLhyphen"/>tia on the Coaſts, would be ſent to make Head againſt this Army in their Bowels, which in all probability would defeat 'em, or, at the worſt, have a drawn Battel, and then repair to their Ships, always ready to receive them: This would more diſtract and confound the <hi>French, Court</hi> and <hi>Coun<g ref="char:EOLhyphen"/>cils,</hi> and break all their Meaſures, than all other Attempts whatever, nay than Two hundred thouſand Men in Arms in <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> againſt 'em, tho' each beſieg'd and took a good Town or two every Cam<g ref="char:EOLhyphen"/>paign.</p>
+            <p>The Terror the landed Army would give them, the univerſal Conſternation they would be expos'd to, would over<g ref="char:EOLhyphen"/>whelm 'em, and deſtroy 'em. The Allies might have what Terms they pleas'd to in<g ref="char:EOLhyphen"/>ſiſt upon, for nothing would be denied 'em; no Diſputes would be made, but all granted that ſhould be demanded: For
+<pb n="15" facs="tcp:153477:9"/>any one of the Allie's Armies, once got in<g ref="char:EOLhyphen"/>to <hi>France,</hi> would produce this happy Ef<g ref="char:EOLhyphen"/>fect immediately; and if all Things did not ſucceed according to expectation in the Diſcent, yet the <hi>French</hi> Forces in <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> (as I ſaid before) could not make Head againſt the mighty Army of the Al<g ref="char:EOLhyphen"/>lies there, always in full view of them, ready to attack them, upon the firſt march of the Detachment they would be forced to make, to compleat the Army intended to repel the new Invaders.</p>
+            <p>We want not Examples of mighty Victories obtain'd over the <hi>French</hi> by hand<g ref="char:EOLhyphen"/>fuls of Men, even when their Armies were ſeven or eight to one; and by the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> alone, after a glorious Compaign made, and their Forces fatigu'd and al<g ref="char:EOLhyphen"/>moſt diſabled. The ſame Courage reſides in the brave, and impenitrable Hearts of the ſame Nation; and if it be objected, The <hi>French</hi> are now better Soldiers, and have better Officers; ſo are, and have the Allies, whoſe Soldiers were always as
+<pb n="16" facs="tcp:153477:10"/>good as (or better than) the <hi>French,</hi> and their Officers now much better; of which they gave Proof beyond contradiction, in their Conduct all the laſt Campaign, which their very Enemies cannot deny, and par<g ref="char:EOLhyphen"/>ticularly in the celebrated Retreat by Prince <hi>Vaudemont;</hi> and the ſtupendious Siege and ſucceſsful Reduction of <hi>Namur</hi> by the King of <hi>Great Britain,</hi> in view of the united Power, nay, and Flower of <hi>France.</hi> If it ſhould be urg'd, That Mo<g ref="char:EOLhyphen"/>ney would be wanting to put this great and glorious Deſign in execution, it is an<g ref="char:EOLhyphen"/>ſwer'd, No; for the <hi>Quota</hi> to each of the Allies would not be vaſtly great, and if it did ſtrain 'em, they had better do ſo than linger on in a long, tedious, and conſum<g ref="char:EOLhyphen"/>ptive War; the <hi>Engliſh</hi> Nation would be forwardeſt, and give the Example, (tho' they have ſuffer'd moſt already by the War,) for all being now convinc'd of the Neceſſity of proſecuting this common Quarrel againſt an Invader, and Oppreſ<g ref="char:EOLhyphen"/>ſor, they willingly contribute to the Charge of it, and would more, and more
+<pb n="17" facs="tcp:153477:10"/>chearfully, if they had a Proſpect of its ſudden Concluſion; which this very En<g ref="char:EOLhyphen"/>terprize would moſt infallibly produce.</p>
+            <p>Nor would there be wanting Shipping, or Sea-men, for this Service, the <hi>Engliſh</hi> and <hi>Dutch</hi> can furniſh both; tho' we are ſenſible ſo great and well-appointed an Army would take up abundance of Ships, and employ a great many Mariners; but the Horſe and Dragoons only would re<g ref="char:EOLhyphen"/>quire the greateſt Number of both, for the Foot might embark on board the Men of War of both Nations, who muſt ſpare their Sea-men to man the Veſſels of Tranſport, Proviſions, <hi>&amp;c.</hi> 'Tis but a ſhort Cut to <hi>France;</hi> the <hi>Engliſh</hi> former<g ref="char:EOLhyphen"/>ly knew the Way very readily thither, and liked the Country ſo well, that they not only winter'd, (as well as ſummer'd,) but alſo conquer'd it all for themſelves: And tho' this is not now pretended, nor intended, being againſt the true Intereſt of <hi>Europe,</hi> wholly to ruine <hi>France,</hi> or to canton her out into Provinces, and ſo
+<pb n="16" facs="tcp:153477:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:153477:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:153477:12"/>each ſhare the Spoil: No, all that is de<g ref="char:EOLhyphen"/>ſign'd, and aim'd at, is to reduce her with<g ref="char:EOLhyphen"/>in due Bounds, <hi>France</hi> may be <hi>France</hi> ſtill, and <hi>Lewis</hi> the Fourteenth King thereof, but he muſt be ſtript from thoſe Dominions he is now poſſeſs'd of, which he got by Fraud, or Stealth; he is pretty well weak<g ref="char:EOLhyphen"/>en'd already, he is very ſick of the War, and wiſhes it were at an End, and would come to pretty good Terms, but is mighti<g ref="char:EOLhyphen"/>ly loth to part with thoſe fine Morſels he has ſwallow'd, he thinks he could digeſt 'em, but they lie too crude and heavy at his Stomach, he is unwilling to diſgorge, but he muſt, for his natural Heat abates, and his radical Moiſture is exhauſted, (I mean his Coin and Power) ſo that they muſt come up again: His Appetite is good yet, and Oſtrich-like he can ſwallow, but not (like them) digeſt (as 'tis reported) Iron, eſpecially if there be any Steel in it, of which he is like to have his Belly full; and pray God he may, that a ſpeedy End may be put to theſe bloody, mercileſs, deſtructive and unmanly Wars; theſe
+<pb n="19" facs="tcp:153477:12"/>Bombs and red-hot Balls, this Burning, and Bombarding, which (I am ſorry I muſt ſay it) <hi>France</hi> began, tho' now ſhe repents of it, as ſhe will ſoon of all her great and glorious Atchievements, (as ſhe vainly and falſly call'd her barbarous Invaſions, Uſurpations, and Oppreſſions,) ſhe muſt e'er long tamely ſubmit to a Peace, becauſe ſhe can no longer do Miſ<g ref="char:EOLhyphen"/>chief; her Will is good, but her Power dwindles apparently and viſibly, ſhe muſt be reduced to Reaſon, and brought to ſo low an Ebb, that it ſhall not be in her Reach, to hurt, or in the leaſt to offend her honeſt, quiet, and peaceful Neighbors, who being contented with their own, ne<g ref="char:EOLhyphen"/>ver covet other Folks Goods, or Lands; and happy for <hi>France</hi> had ſhe been ſo too, 'tis ſhe that has thinn'd <hi>Europe,</hi> (as well as her ſelf) of People; Millions have bled to gratifie her boundleſs Ambition, have fallen Sacrifices to her matchleſs Cruelty, and to merit the empty Name of <hi>Great,</hi> which her preſent Prince has obtain'd, at the vaſt Expence of Blood,
+<pb n="20" facs="tcp:153477:13"/>Treaſure, Time, and Application: But great what? <hi>Great Monſter! Great Mur<g ref="char:EOLhyphen"/>derer! Great Tyrant! Great Oppreſſor! Perfidious! Baſe! And Perjurious to his Subjects and Neighbours.</hi> Hated by both, but fear'd by neither, but by them hum<g ref="char:EOLhyphen"/>bled, and expos'd to the Contempt of all the World; and at his Death this will be ſaid of him; <hi>He liv'd unbelov'd, and died unlamented.</hi> He will ſtink and putrifie in the Grave; his Name and Memory will be Nauſeous to Poſterity, and inſtead of embelliſhing, (like good Kings and Pa<g ref="char:EOLhyphen"/>triots) will ſully Hiſtory.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153477:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
